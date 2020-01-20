@@ -1,0 +1,224 @@
+body {
+    overflow-x: hidden;
+}
+
+.top-title {
+    font-weight: bold;
+    color: white; 
+    background-color: rgb(0, 153, 255);
+    height: 25px; 
+    font: 17px Arial;
+    font-weight: 600;
+    padding-left: 126px;
+    padding-top: 5px;
+    width: 400mm;
+    
+}
+.nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 5px;
+    color: gray;
+}
+.nav ul {
+    padding: 0;
+}
+
+.first-title{
+    font-size: 40px; 
+    font-weight: 400;
+    margin-top: 30px;
+    border-bottom: 1px solid black;
+    font: Arial;
+}
+.content {
+    padding-left: 5px;
+}
+.content p {
+    padding-left: 10px;
+}
+
+.container-main{
+    margin-left: 126px;
+    font: 13px Arial, Helvetica, sans-serif;
+    margin-right: 126px;  
+}
+
+.second-title{
+    font-weight: 300; 
+    font-size: 40px;
+    font: 40px Verdana;
+    padding-top: 5px;
+    border-bottom: 1px solid black;
+    
+}
+
+
+    
+.n1, .n2{
+    background-color: rgb(0, 153, 255) ;
+    color: white;
+    height: 30px;
+    background-size: cover;
+    width: 630px;
+    padding-left: 8px;
+    padding-top: 3px;
+  
+}
+
+.n2{
+    font-weight: 100 !important;
+}
+
+.required{
+    color: red;
+}
+.form-style{
+    max-width: 500px;
+	padding: 20px 12px 10px 20px;
+    font: 13px Arial, Helvetica, sans-serif;
+}
+
+
+#submitButton{
+    margin-bottom: 20px;
+    margin-left: 450px;
+    padding: 5px 30px;
+    font-size: 20px;
+}
+button{
+    background-color: rgb(56, 206, 36);
+    color: white;
+    border: none;
+    text-align: center;
+    border-radius: 6px;
+}   
+
+.downloadBtnForm{
+    background-color: rgb(247, 243, 243);
+    width: 46%;
+    height: 200px;
+    margin-left: 20px;
+    border-radius: 2px;
+}
+
+.downloadBtn{
+    margin-bottom: 20px;
+    margin-left: 550px;
+    margin-left: 0;
+    padding: 12px 40px;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.mandatory{
+    color: red;
+    font-size: 10px;
+}
+
+.right-container{
+  width: 20%;
+  height: 55%;
+  margin-top: 150px;
+  margin-left: 250mm;
+  padding-bottom: 200px;
+  position:fixed;
+  background-color: rgb(233, 229, 229);
+}
+
+.right-top-ul{
+    margin-left: -40px;
+}
+.right-container-info{
+    margin-inline-start: 15px;
+}
+
+.stars {
+    color:  rgb(56, 206, 36);
+}
+
+.right-container-info ul li{
+    list-style-type: none;
+    
+}
+
+
+input{
+    margin:2px ;
+    margin-left: 30px;
+      
+}
+
+.sub-title h2 , .right-container-info h2{
+    font-weight: 100;
+}
+
+
+
+p{
+    align-content: center;
+    margin-inline-end:600px ;
+    line-height: 20px;
+}
+
+.four-icons{
+    margin-top: 150px;
+    padding-left: 10px;
+}
+.four-icons ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 5px;  
+}
+
+.four-icons ul{
+    margin-left: -52px;
+    margin-top:-130px ;
+}
+
+.right-container-info h3{
+ font-weight: 100;
+}
+.first-img{
+    margin-top: 25px;
+    margin-left: 0px;
+
+}
+
+.field-area textarea
+ {
+    vertical-align: top;  
+    width: 448px;
+   
+}
+
+.inp2{
+    margin-left: 20px;
+    vertical-align: top;  
+    width: 450px;
+}
+.inp1{
+    margin-left: 18px;
+    vertical-align: top; 
+    width: 450px; 
+    
+
+}
+.downloadInfoBtn ul li{
+    margin-left: -15px;
+    list-style-type: none;
+    padding-top: 5px;
+}
+
+.downloadInfoBtn{
+    margin-top: -20px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.fix-steps ul li{
+  list-style-type: none;  
+  margin-left: -30px;
+  
+
+}
